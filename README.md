@@ -1,1 +1,1 @@
-# Power-co-Project
+# PowerCo-Project
